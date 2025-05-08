@@ -21,7 +21,6 @@ grpcio==1.70.0
 h5py==3.10.0
 huggingface-hub==0.28.1
 imbalanced_learn==0.12.3
-joblib==1.1.0
 joblib==1.4.2
 keras==3.8.0
 langcodes==3.5.0
@@ -57,5 +56,4 @@ shap==0.47.2
 spacy==3.8.3
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
-streamlit==1.37.1
 streamlit==1.45.0
