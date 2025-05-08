@@ -7,7 +7,6 @@ backports.weakref==1.0.post1
 blis==1.2.0
 catalogue==2.0.10
 cloudpathlib==0.20.0
-clyent==1.2.1
 colorclass==2.2.2
 contractions==0.1.73
 cycler==0.11.0
