@@ -33,7 +33,7 @@ Setup environment:
 
 Dashboard ini menunjang admin untuk memonitor variabel yang sangat memepengaruhi Dropout Rate Siswa. dalam Dashboard ini tersedia jumlah siswa, persentase siswa dropoutserta masih banyak lagi dan juga dalam dashboard ini dilengkapi dengan berbagai macam visualisasi yang mempermudah pihak admin untuk melakukan analisis secara statistikal. (https://public.tableau.com/app/profile/althaf.yudhistira/viz/Book1_17466738700550/Dashboard1?publish=yes)
 ## Menjalankan Sistem Machine Learning
-Untuk Program prediksi status mahasiswa menggunakan algoritma machine learning berupa Random Forest dengan akurasi sebesar 87% sehingga dapat dikatakan cukup andal untuk melakukan proses klasifikasi. klasifikasi dibagi menjadi 2 kelas yaitu kelas dropout dan enrolled.
+Untuk Program prediksi status mahasiswa menggunakan algoritma machine learning berupa Random Forest dengan akurasi sebesar 87% sehingga dapat dikatakan cukup andal untuk melakukan proses klasifikasi. klasifikasi dibagi menjadi 2 kelas yaitu kelas dropout dan enrolled. dapat diakses pada link berikut (https://student-dashb-kukbywfasb7ubwv7akjkzq.streamlit.app)
 ```
    streamlit run app.py
 ```
