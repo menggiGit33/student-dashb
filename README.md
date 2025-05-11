@@ -7,12 +7,13 @@ Jaya Jaya Institut merupakan salah satu institusi pendidikan perguruan yang tela
 Jumlah dropout yang tinggi ini tentunya menjadi salah satu masalah yang besar untuk sebuah institusi pendidikan. Oleh karena itu, Jaya Jaya Institut ingin mendeteksi secepat mungkin siswa yang mungkin akan melakukan dropout sehingga dapat diberi bimbingan khusus.
 
 ### Permasalahan Bisnis
+Dengan tingginya jumlah dropout pada Jaya Jaya Institut, pihak kampus memerlukan sesuatu yang dapat mempermudah proses monitoring  siswa agar dapat mengambil langkah preventif (dengan melakukan simulasi data) atau bahan evaluasi pihak institut.
 
-- Membuat Dashbord yang andal dan mudah dimengerti oleh pihak Admin 
-- Membuat Model Machine Learning untuk prediksi data siswa
 
 ### Cakupan Proyek
 
+- Membuat Dashbord yang andal dan mudah dimengerti oleh pihak Admin 
+- Membuat Model Machine Learning untuk prediksi data siswa
 - Proyek ini menggunakan Jupyter Notebook untuk proses pengolahan data 
 - Tableau untuk Visualisasi Dashboard
 - Streamlit Cloud untuk Deploy Environment Machine Learning
